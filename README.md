@@ -31,3 +31,7 @@ The project uses PDF documents for providing college information:
 - Notices.pdf
 - Regulations.pdf
 
+  Developed By
+
+  Loga Shri S
+
