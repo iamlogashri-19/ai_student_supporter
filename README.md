@@ -1,39 +1,33 @@
 AI Student Support Assistant
 
-An AI-powered assistant that helps students get quick answers to academic and college-related questions.
+An AI-powered assistant that helps students with academic and college-related queries.
 
 Features
 
- Answers questions from college PDF documents
- Uses RAG for document-based question answering
- CGPA Calculator
- Fee Calculator
- Conversation Memory
- Uses Llama 3.2 with Ollama
+- College information and FAQs
+- Syllabus and regulations search
+- Notices and announcements
+- CGPA Calculator
+- Fee Calculator
+- Conversation Memory
+- RAG-based Question Answering
 
-Technologies
+Technologies Used
 
-Python
-LangChain
-Ollama
-Llama 3.2
-ChromaDB
-RAG
-PyPDF
+- Python
+- LangChain
+- Ollama
+- Llama 3.2
+- ChromaDB
+- RAG
+- PyPDF
 
 Documents
 
-The assistant uses:
-FAQs.pdf
-Syllabus.pdf
-Notices.pdf
-Regulations.pdf
+The project uses PDF documents for providing college information:
 
-Developed By
-Loga Shri S
+- FAQs.pdf
+- Syllabus.pdf
+- Notices.pdf
+- Regulations.pdf
 
-Developed by 
-Loga Shri S
-
-Voice assistant
-Mobile support
